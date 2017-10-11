@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon-o.ico</file>
+        <file>icon-i.ico</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>Help.chm</file>
+        <file>Help.pdf</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>f(x)=sin(abs(x)-10).png</file>
+        <file>emblem.png</file>
+    </qresource>
+</RCC>

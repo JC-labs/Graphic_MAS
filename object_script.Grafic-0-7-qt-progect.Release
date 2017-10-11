@@ -1,0 +1,14 @@
+INPUT(
+./release\data.o
+./release\datas.o
+./release\graficwidget.o
+./release\mainwindow.o
+./release\progress.o
+./release\main.o
+./release\help.o
+./release\qrc_res.o
+./release\moc_graficwidget.o
+./release\moc_mainwindow.o
+./release\moc_progress.o
+./release\moc_help.o
+);

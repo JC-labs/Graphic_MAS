@@ -1,0 +1,14 @@
+INPUT(
+./debug\data.o
+./debug\datas.o
+./debug\graficwidget.o
+./debug\mainwindow.o
+./debug\progress.o
+./debug\main.o
+./debug\help.o
+./debug\qrc_res.o
+./debug\moc_graficwidget.o
+./debug\moc_mainwindow.o
+./debug\moc_progress.o
+./debug\moc_help.o
+);
